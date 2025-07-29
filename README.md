@@ -1,6 +1,6 @@
 # HeLLM: Multi-Modal Hypergraph Enhanced LLM Learning for Recommendation
 
-This is our Pytorch implementation for the paper:[HeLLM: Multi-Modal Hypergraph Enhanced LLM Learning for Recommendation](https://arxiv.org/pdf/2504.10541).
+This is our Pytorch implementation for the paper: [HeLLM: Multi-Modal Hypergraph Enhanced LLM Learning for Recommendation](https://arxiv.org/pdf/2504.10541).
 
 <p align="center">
 <img src="./image/HeLLM.png" alt="HeLLM" />
