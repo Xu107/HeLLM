@@ -31,13 +31,13 @@ The original recommendation datasets can be found at [Amazon product data (2018)
 For pretraining, we provide **three publicly available pre-processed datasets** that require no additional processing. These include:  
 (1) basic user-item interaction data, and  
 (2) multi-modal features.  
-You can download them from [Google Drive (HeLLM_pre_data)](https://drive.google.com/drive/folders/1Up4o7SA33YqZzN7L_ZeOZ83bHt4W95zV?usp=drive_link).
+You can download them from [Google Drive](https://drive.google.com/drive/folders/1Up4o7SA33YqZzN7L_ZeOZ83bHt4W95zV?usp=drive_link) / [Baidu Cloud](https://pan.baidu.com/s/19ST11B4yiXTcXTwJA46oBg?pwd=pgn6) (HeLLM_pre_data).
 
 The pre-training model is derived from our previous work [MMHCL](https://github.com/Xu107/MMHCL), in which we pretrained state-of-the-art user and item embeddings for multimodal collaborative filtering. 
 You can use the datasets linked above to pretrain the graph-based embeddings accordingly.
 
 🔖🔖
-For convenience, we directly release the **pretrained graph-based embeddings** on [Google Drive (HeLLM_ft_data)](https://drive.google.com/drive/folders/1IJ1M4LraypXLLiBZnyLrzo5Xifw1kPYi?usp=drive_link), which can be used for LLM fine-tuning in this code repository. 
+For convenience, we directly release the **pretrained graph-based embeddings** on [Google Drive](https://drive.google.com/drive/folders/1IJ1M4LraypXLLiBZnyLrzo5Xifw1kPYi?usp=drive_link) / [Baidu Cloud](https://pan.baidu.com/s/1VBNJq9-Zo7fa0QXC41SePw?pwd=nbs4) (HeLLM_ft_data), which can be used for LLM fine-tuning in this code repository. 
 Please follow the instructions below to fine-tune the HeLLM model.
 
 🔥🔥 
